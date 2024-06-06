@@ -64,7 +64,7 @@ void loop() {
 ```
 ## Projeto Simulado
 
-Link do projeto no Tinkercad: https://www.tinkercad.com/thingseibn55Iv2tH-magnificent-amur-jofo/editel?sharecode=dh11j_QI8xqpvM-nSwEQ-iuIKR9e3UJLsTAIEkqYr2w
+Link do projeto no Tinkercad: https://www.tinkercad.com/things/eibn55Iv2tH-magnificent-amur-jofo/editel?sharecode=dh11j_QI8xqpvM-nSwEQ-iuIKR9e3UJLsTAIEkqYr2w
 ## Autores
 
 - [@Camilamie](https://github.com/camilamie) [RM: 555418]
